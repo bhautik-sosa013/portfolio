@@ -8,7 +8,7 @@ export const PORTFOLIO_INFO: Portfolio = {
     pdf: "/resume.pdf",
   },
   personal: {
-    name: "TESING...",
+    name: "Wolf",
     title: "Senior Engineer — Full Stack (Python & React)",
     headline: "React · Python · FastAPI · IaC · Cloud",
     // avatar can be a string, an object with { url, label }, or an array of those.
